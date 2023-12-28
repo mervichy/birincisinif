@@ -1,0 +1,4 @@
+def fonksiyonum():
+    print("benim fonk")
+
+fonksiyonum()

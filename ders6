@@ -1,0 +1,6 @@
+def iller(il="Ankara"):
+    print("Doğum yeri: " + il)
+
+iller("İzmir")
+iller()
+iller("Bursa")

@@ -1,0 +1,5 @@
+a = int(input("Sayı giriniz: \n"))
+b = int(input("Sayı giriniz: \n"))
+if a>b: print(str(a) + "büyük" + str(b))
+elif a==b: print(a + "ile" + b + "eşit")
+else: print(b + "büyük" + a)

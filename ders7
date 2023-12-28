@@ -1,0 +1,6 @@
+def meyveler(meyve):
+    for x in meyve:
+        print(x)
+
+meyvele=["merve","selen","azra","sara"]
+meyveler(meyvele)

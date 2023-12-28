@@ -1,0 +1,6 @@
+tuple1 = ("elma", "armut", "muz")
+tuple2 = (1,5,7,9)
+tuple3 = (True, False, False)
+print(tuple1)
+print(tuple2)
+print(tuple3)
